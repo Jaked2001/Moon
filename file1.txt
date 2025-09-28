@@ -2,4 +2,4 @@ hello
 world
 
 I'm trying to learn how to use git. Who knows how this works. I'll try to upload these changes now.
-I just realised I should add this line here.
+I just realised I should add this line here. And this too
