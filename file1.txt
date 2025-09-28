@@ -4,3 +4,5 @@ world
 I'm trying to learn how to use git. Who knows how this works. I'll try to upload these changes now.
 
 I will now try to add a new function to the code. This new func should be able to evaluate the amount of time it takes to run the code. I'm not sure if this works, so I will create it in a new branch.
+
+New feature of runtime func.
